@@ -1,2 +1,4 @@
-# raze-macos-devbuilds
-Mirror of Raze development builds for macOS
+## GZDoom: Development builds for macOS
+
+|Version / Link|SHA-256 Checksum|
+|---|---|
