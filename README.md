@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`0.7.3_alpha-524-gbc1adc9c5`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/0.7.3_alpha-524-gbc1adc9c5/raze-0.7.3_alpha-524-gbc1adc9c5.dmg)|`6370fbc6baddca017a9314b84dbea3e22b8c6d8b111e2552b3baaf72d05b9609`|
 |[`0.7.3_alpha-317-g9a43886be`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/0.7.3_alpha-317-g9a43886be/raze-0.7.3_alpha-317-g9a43886be.dmg)|`f650e2e6b900ce24e62fbf1956bdc9af05311e0d754f60aea05a3a28e8399b7a`|
 |[`0.7.3_alpha`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/0.7.3_alpha/raze-0.7.3_alpha.dmg)|`8ec1980e1425aba8f16579ff23e3344f115fe45f58b288597faddadb89757df3`|
 |[`0.7.1_alpha-313-gbe21cb060`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/0.7.1_alpha-313-gbe21cb060/raze-0.7.1_alpha-313-gbe21cb060.dmg)|`fb19bdad24f5368b968f15759154a4a0944c8d81358d71187a1f4fd57633154e`|
