@@ -1,4 +1,4 @@
-## GZDoom: Development builds for macOS
+## Raze: Development builds for macOS
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
