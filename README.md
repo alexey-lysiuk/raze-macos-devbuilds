@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`1.1.0pre-164-g39b84c406`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.1.0pre-164-g39b84c406/raze-1.1.0pre-164-g39b84c406.zip)|`909fc08215cb07a18a4d8fcb9bf9f5f552d8b99b4ed405fd1a64b66220cc4b3e`|
 |[`1.1.2`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.1.2/raze-1.1.2.zip)|`031c26fb7825849a4a3cce3adc5e5e63853b408e46cfd869903c7e3942273cb0`|
 |[`1.1.1`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.1.1/raze-1.1.1.zip)|`375a3a02b1de62970d81dfc6a242d7a2275a282481f78f59f9aef3390402f1c1`|
 |[`1.1.0`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.1.0/raze-1.1.0.zip)|`05c10c4fa9fc822291caa61211c5c3eb8bf24959260432343d663cdec5deb882`|
