@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`1.6pre-572-g81c7e7671f`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.6pre-572-g81c7e7671f/raze-1.6pre-572-g81c7e7671f.zip)|`532becafe84027fa1ebbf8c72920c00d642a8339ab91ee8f448253bca9c83fa6`|
 |[`1.6pre-429-g7a45738d7e`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.6pre-429-g7a45738d7e/raze-1.6pre-429-g7a45738d7e.zip)|`213e7c39ff84000355e896fcafaaa1115a670cc0a004a47b5ae9b535ac502704`|
 |[`1.6pre-377-gb2d0d7f9e5`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.6pre-377-gb2d0d7f9e5/raze-1.6pre-377-gb2d0d7f9e5.zip)|`9a4f3e39c8920dadc3a3771904dd4977cb89269b78a2380caf9a24fc8ae3cf33`|
 |[`1.6pre-320-g416be99967`](https://github.com/alexey-lysiuk/raze-macos-devbuilds/releases/download/1.6pre-320-g416be99967/raze-1.6pre-320-g416be99967.zip)|`e4725ac5061aad5481d68dde6a2fa2c9df882e395b0ed37bf3782c85b4e0758b`|
